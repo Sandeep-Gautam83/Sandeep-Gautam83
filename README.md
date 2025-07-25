@@ -28,19 +28,36 @@
 - 💻 Full-Stack Developer (Java Spring Boot + React + MySQL)
 - 🔥 Passionate about writing clean, scalable code and solving real-world problems
 - 📚 Focused on mastering DSA & system design
-- 🌱 Exploring Cloud, Docker & DevOps tools
+- 🌱 Exploring cloud, Docker & DevOps tools
 
 ---
 
 ### 🌐 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/sandeep-gautam-62a96b24b/"><img src="https://img.icons8.com/color/48/linkedin.png" width="30" /></a>
-  <a href="https://www.instagram.com/it.sandeep.gautam/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" /></a>
-  <a href="https://leetcode.com/u/Sandeep-Gautam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-leetcode-programming-contests-platform-for-coding-interview-logo-shadow-tal-revivo.png" width="30" /></a>
-  <a href="https://www.hackerrank.com/profile/Sandeep_Gautam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/hackerrank.png" width="30" /></a>
-  <a href="https://www.geeksforgeeks.org/user/sundeepw1u0/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/geeksforgeeks.png" width="30" /></a>
-  <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2"><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-structure-coding-and-development-flat-flat-juicy-fish.png" width="30" title="Striver A2Z DSA Sheet" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandeep-gautam-62a96b24b/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/it.sandeep.gautam/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Sandeep-Gautam/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-leetcode-programming-contests-platform-for-coding-interview-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/Sandeep_Gautam" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/hackerrank.png" alt="HackerRank" title="HackerRank" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/sundeepw1u0/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" title="GeeksforGeeks" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2" target="_blank">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-structure-coding-and-development-flat-flat-juicy-fish.png" alt="Striver A2Z Sheet" title="Striver A2Z Sheet" width="40"/>
+  </a>
 </p>
 
 ---
@@ -65,7 +82,7 @@
 
 ### 📘 DSA Practice Sheet
 
-📌 [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) – Most recommended roadmap for mastering DSA 💪
+📌 [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) – Most recommended roadmap for DSA mastering 💪
 
 ---
 
