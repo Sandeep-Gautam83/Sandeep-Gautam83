@@ -56,18 +56,5 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-Gautam83&show_icons=true&theme=radical&hide_title=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Gautam83&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Gautam83&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 💡 Fun Fact
 > I debug not just to fix code, but to learn what **not to do again** 👨‍🔬
