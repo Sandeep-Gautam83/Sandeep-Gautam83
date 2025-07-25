@@ -6,34 +6,43 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sandeep.2023ca83@mnnit.ac.in"><img src="https://img.shields.io/badge/Email-sandeep.2023ca83%40mnnit.ac.in-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sandeep-gautam-62a96b24b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://github.com/Sandeep-Gautam83"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"/></a>
-  <a href="https://drive.google.com/file/d/1jZPkKpsVFYJvgl6WEJKiCcyzUVWrAs8a/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive"/></a>
+  <a href="mailto:sandeep.2023ca83@mnnit.ac.in">
+    <img src="https://img.shields.io/badge/Email-sandeep.2023ca83%40mnnit.ac.in-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-gautam-62a96b24b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Sandeep-Gautam83">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://drive.google.com/file/d/1jZPkKpsVFYJvgl6WEJKiCcyzUVWrAs8a/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧑‍🎓 MCA @ **MNNIT Allahabad**
-- 🌱 Focused on **Full-Stack Development**, especially with **Java + Spring Boot + React**
-- 💻 Passionate about building scalable web apps, APIs, and real-world software
-- 🎯 Consistently solving problems on platforms like LeetCode, CodeChef, GFG, and Codeforces
-- 🌐 Exploring DevOps and Cloud (Docker, GCP)
+- 🎓 MCA @ **MNNIT Allahabad**
+- 💻 Full-Stack Developer (Java Spring Boot + React + MySQL)
+- 🔥 Passionate about writing clean, scalable code and solving real-world problems
+- 📚 Focused on mastering DSA & system design
+- 🌱 Exploring cloud, Docker & DevOps tools
 
 ---
 
-### 🌍 Let's Connect
+### 🌐 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/sandeep-gautam-62a96b24b/"><img src="https://img.icons8.com/color/48/linkedin.png" width="30" /></a>
-  <a href="https://instagram.com/sandeep_gautam"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" /></a>
+  <a href="https://www.instagram.com/it.sandeep.gautam/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" /></a>
+  <a href="https://leetcode.com/u/Sandeep-Gautam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/leetcode.png" width="30" /></a>
   <a href="https://www.codechef.com/users/sandeep-gautam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/codechef.png" width="30" /></a>
   <a href="https://codeforces.com/profile/sandeep-gautam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/codeforces.png" width="30" /></a>
-  <a href="https://leetcode.com/sandeep-gautam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/leetcode.png" width="30" /></a>
-  <a href="https://www.hackerearth.com/@sandeep.gautam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/hackerearth.png" width="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sandeep.gautam/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/geeksforgeeks.png" width="30" /></a>
+  <a href="https://www.hackerrank.com/profile/Sandeep_Gautam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/hackerrank.png" width="30" /></a>
+  <a href="https://www.geeksforgeeks.org/user/sundeepw1u0/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/geeksforgeeks.png" width="30" /></a>
+  <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2"><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-structure-coding-and-development-flat-flat-juicy-fish.png" width="30" title="Striver A2Z DSA" /></a>
 </p>
 
 ---
@@ -56,5 +65,11 @@
 
 ---
 
+### 📘 DSA Practice Sheet
+
+📌 [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) – Most recommended roadmap for DSA mastering 💪
+
+---
+
 ### 💡 Fun Fact
-> I debug not just to fix code, but to learn what **not to do again** 👨‍🔬
+> Debugging is like being the detective in a crime movie where **you are also the murderer** 😅
