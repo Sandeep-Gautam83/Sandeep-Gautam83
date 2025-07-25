@@ -15,10 +15,12 @@
   <a href="https://github.com/Sandeep-Gautam83">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
   </a>
-  <a href="https://drive.google.com/file/d/1jZPkKpsVFYJvgl6WEJKiCcyzUVWrAs8a/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/your-resume-link/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive" />
   </a>
 </p>
+
+> ⚠️ **Note:** Replace `https://drive.google.com/file/d/your-resume-link/view?usp=sharing` with your actual **Google Drive public resume link**.
 
 ---
 
